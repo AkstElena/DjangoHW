@@ -1,6 +1,6 @@
 # Игнорировать файлы pycache
 __pycache__/
-.idea
+.idea*
 # Игнорировать миграции БД
 */migrations/
 
